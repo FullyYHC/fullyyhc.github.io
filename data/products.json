@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "title": "工单管理",
+    "category": "PMC",
+    "description": "建立、维护生产工单状态讯息，实时追踪生产进度。",
+    "icon": "clipboard-list",
+    "highlight": "实时追踪"
+  },
+  {
+    "id": "p2",
+    "title": "质量检测",
+    "category": "Quality",
+    "description": "全流程质量追溯，自动生成质检报告。",
+    "icon": "shield-check",
+    "highlight": "全流程追溯"
+  },
+  {
+    "id": "p3",
+    "title": "设备监控",
+    "category": "Equipment",
+    "description": "实时采集设备运行数据，预测性维护。",
+    "icon": "server",
+    "highlight": "预测性维护"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "c1",
+    "companyName": "某电子制造厂",
+    "industry": "电子制造",
+    "scale": "50人",
+    "painPoints": ["设备故障预警不及时", "停机损失大"],
+    "solution": "设备/治具管理模块",
+    "results": [
+      {
+        "metric": "故障预警准确率",
+        "value": "90%",
+        "trend": "up"
+      },
+      {
+        "metric": "停机时间",
+        "value": "30%",
+        "trend": "down"
+      }
+    ]
+  }
+]
