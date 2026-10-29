@@ -509,5 +509,21 @@ export const softwareProducts: SoftwareProduct[] = [
         ]
       }
     ]
+  },
+  {
+    id: 'ai-customer-service',
+    name: 'PCZL AI 自动化客服助手',
+    tagline: '全天候多渠道智能交互与商机线索自动流转系统',
+    badge: '即将发布',
+    description: '支持微信、企业微信与独立 Web 端接入，基于企业私有知识库秒级精准问答，自动打标签与线索跟进。',
+    status: 'coming_soon',
+    category: '营销与客服自动化',
+    iconName: 'MessageSquareShare',
+    latestVersion: '敬请期待',
+    latestReleaseDate: '2026 Q4',
+    platforms: [],
+    quickStartGuide: [],
+    systemRequirements: [],
+    releases: []
   }
 ];
